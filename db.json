@@ -1,0 +1,61 @@
+[
+          {
+            title  : 'Scheduled visit',
+            start  : '2019-03-05T05:00',
+            end  : '2019-03-05T06:30',
+            Confirmedstart  : '2019-03-05T05:00',
+            Confirmedend  : '2019-03-05T06:30',
+            EventColor : '#7ED321',
+            EventIcon : 'fa fa-circle'
+          },
+          {
+            title  : 'Scheduled visit',
+            start  : '2019-03-12T05:00',
+            end  : '2019-03-12T06:30',
+            Confirmedstart  : '2019-03-12T05:00',
+            Confirmedend  : '2019-03-12T06:30',
+            EventColor : '#7ED321',
+            EventIcon : 'fa fa-circle'
+          },
+          {
+            title  : 'On Hold Visit',
+            start  : '2019-03-05T07:00',
+            end  : '2019-03-05T08:30',
+            Confirmedstart  : '2019-03-05T07:00',
+            Confirmedend  : '2019-03-05T08:30',
+            EventColor : '#F47B20',
+            EventIcon : 'fa fa-exclamation-circle'
+          },
+          {
+            title  : 'Scheduled visit',
+            start  : '2019-03-06T05:00',
+            end  : '2019-03-06T06:00',
+            Confirmedstart  : '2019-03-05T07:00',
+            Confirmedend  : '2019-03-05T08:30',
+            EventColor : 'red',
+            EventIcon : 'fa fa-circle'
+          },
+          {
+            title  : 'Scheduled visit',
+            start  : '2019-03-07T05:00',
+            end  : '2019-03-07T06:00',
+            Confirmedstart  : '2019-03-05T07:00',
+            Confirmedend  : '2019-03-05T08:30',
+            EventColor : 'red',
+            EventIcon : 'fa fa-circle'
+          },
+          {
+            title  : 'event2',
+            start  : '2010-01-05T05:00',
+            end    : '2010-01-07T06:00',
+            EventColor : 'red',
+            EventIcon : 'fa fa-circle'
+          },
+          {
+            title  : 'event3',
+            start  : '2010-01-09T12:30:00',
+            allDay : false, // will make the time show
+            EventColor : 'red',
+            EventIcon : 'fa fa-circle'
+          }
+        ]
